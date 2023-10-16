@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+[https://github.com/entbappy/Chicken-Disease-Classification--Project](https://github.com/sunilgiri7/Chicken-disease-classifier--Using-MLOPS-DVC-Pipeline.git)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
